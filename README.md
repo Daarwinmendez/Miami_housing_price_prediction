@@ -15,12 +15,12 @@ This repository contains an analysis and data modeling project using the **Miami
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/miami-housing-price-prediction.git
+    git clone https://github.com/your_username/Miami_housing_price_prediction.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd miami-housing-price-prediction
+    cd Miami_housing_price_prediction
     ```
 
 3. Install the required dependencies:
